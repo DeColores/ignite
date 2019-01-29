@@ -32,7 +32,7 @@ import org.junit.runners.Suite;
  */
 @RunWith(Suite.class)
 @Suite.SuiteClasses({
-    GridCachePartitionedOptimisticTxNodeRestartTest.class,
+    //GridCachePartitionedOptimisticTxNodeRestartTest.class,
     NearCacheMultithreadedUpdateTest.class,
     GridCachePartitionedNearDisabledOptimisticTxNodeRestartTest.class,
 })
